@@ -1,0 +1,33 @@
+# ================================
+# .NET / ASP.NET Core
+# ================================
+
+# Build results
+bin/
+obj/
+
+# Rider / Visual Studio
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Swagger
+swagger/
